@@ -1,5 +1,16 @@
+# Live Link:
+https://amazon-clone-ybcn.vercel.app/
+
+# Technology
+
+
 # Installation Steps
 
+1) nextjs
+2) tailwind css
+3) stripe
+4) next auth
+5) firebase
 
 
 ## Using npm
