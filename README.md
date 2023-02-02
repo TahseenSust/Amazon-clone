@@ -32,5 +32,5 @@ Run commands
 
 3) ```yarn run dev```
 
-![Screenshot](screenshot/home.png)
+![Screenshot](screenshots/home.png)
 
